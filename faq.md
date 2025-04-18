@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/faq.jpg
+coverY: 0
+---
+
 # 🦊 FAQ
 
 #### Q: What is being offered?
