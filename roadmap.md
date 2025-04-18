@@ -1,5 +1,7 @@
 ---
 description: What’s the roadmap for 2024–2025?
+cover: .gitbook/assets/roadmap.jpg
+coverY: 0
 ---
 
 # 🛣️ Roadmap
