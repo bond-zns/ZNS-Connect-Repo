@@ -1,5 +1,7 @@
 ---
 description: Equity opportunity — built for fast review or intros
+cover: .gitbook/assets/one pager.jpg
+coverY: 0
 ---
 
 # 📃 One Pager

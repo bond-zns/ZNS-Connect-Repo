@@ -1,5 +1,7 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
+cover: .gitbook/assets/equity.jpg
+coverY: 0
 ---
 
 # 🏫 Equity Deal
