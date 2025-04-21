@@ -10,13 +10,18 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 ***
 
-#### 📊 **Valuation & Structure**
 
-* **Pre-TGE Valuation**: $... million
-* **75% equity offered** at a **$... million valuation**
-* Effectively a **50% discount** from current internal market estimate
-* Raise target: **$...M** total
-* Equity can be acquired in **blocks of 25%**, allowing flexibility
+
+**📊 Deal Summary**
+
+* **Pre-TGE Valuation:** $5M pre-TGE (  60-50% discount from current internal market estimate)
+* **Equity Offered:** 75% (**$3.75M total raise**)
+* **Structure:** 25% blocks (negotiable)
+* **Token Launch Potential:** $10M–$18M+
+* **Benchmark Comparables:**
+  * ENS – $540M
+  * Unstoppable Domains – $430M
+  * Space ID – $160M
 
 ***
 
@@ -33,21 +38,29 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 ***
 
-#### 📁 **Legal & Deal Mechanics**
+#### ⚖️ Legal Structure
 
-* Incorporation: **Panama**
-* Equity structure: **Common Shares or SAFE Agreement**
-* Token treatment: **warrant-backed allocation + vesting**
-* SAFE template available upon request
-* Legal review and support provided for onboarding
+* **Incorporation:** Panama
+* **Equity Vehicle:** Common Shares or SAFE
+* **Token Treatment:** Warrant-backed allocation with vesting
+* **Documents:** SAFE draft available upon request
 
 ***
 
-#### 📈 **What Investors Get**
+#### 🛡️ Investor Benefits
 
-* Ownership of the **ZNS Connect brand, platform, and infrastructure**
-* Full rights to revenue and future profit-sharing
-* Governance role across SDKs, domains, auctions, affiliate system
-* Ability to help shape the go-to-market for token launch
+* ✅ Token Warranty Rights
+* ✅ Revenue Share + Token Upside
+* ✅ Strategic Role in Core Infrastructure
+* ✅ Full Access to Platform, SDKs, Auctions, Governance
+* ✅ Participation in Ecosystem Grants, Launches, Builder Rewards
+
+***
+
+
+
+***
+
+Let me know if you'd like this version uploaded as Markdown or directly formatted into your GitBook page. I can also split it into collapsible sections if your GitBook supports toggles.
 
 ***
