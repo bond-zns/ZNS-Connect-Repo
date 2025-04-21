@@ -25,6 +25,8 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 ***
 
+<figure><img src=".gitbook/assets/Screenshot 2025-04-21 at 16.20.06.png" alt=""><figcaption></figcaption></figure>
+
 #### 🔐 **Token Warranty (Included)**
 
 All equity investors receive:
