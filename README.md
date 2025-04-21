@@ -11,15 +11,19 @@ coverY: 0
 
 We're building the multi-chain identity and naming layer for Web3 — already live across 15+ blockchains, with 533K+ domains registered and over $750K in protocol revenue.
 
+✅ Trusted by **90+ partners** including **OKX**, **Scroll**, and **Magic Square**\
+✅ Embedded in fast-growing ecosystems like **INK**, **Unichain**, and **Soneium**\
+✅ Backed by **real usage**, proven **revenue**, and **token-ready infrastructure**
+
 This portal contains everything you need to explore our investment opportunity:
 
-* A concise [one-pager.md](one-pager.md "mention")**One-Pager** for quick insights
-* A full [pitch-deck.md](pitch-deck.md "mention")**Pitch Deck** with traction, roadmap, and deal terms
-* Details on our [equity-deal.md](equity-deal.md "mention")**Equity + Token structure**
+* A concise [one-pager.md](one-pager.md "mention") for quick insights
+* A full [pitch-deck.md](pitch-deck.md "mention") with traction, roadmap, and deal terms
+* Details on our [equity-deal.md](equity-deal.md "mention")
 * [faq.md](faq.md "mention"), [roadmap.md](roadmap.md "mention"), and [contact-and-legal-info.md](contact-and-legal-info.md "mention")
 
-We're currently speaking with 1–3 strategic investors to help scale the platform globally in 2025–2026.
+We’re currently speaking with **1–3 strategic investors** to help scale ZNS Connect globally across 2025–2026 — especially as we prepare for token launch, SDK expansion, and CEX integrations.
 
-> ✨ _Let us know if you have any questions, want a custom call, or wish to co-structure token terms._
+✨ Have questions? Want a custom call? Interested in co-structuring token terms with us?
 
-**Start with the One-Pager or go straight to the Deck.**
+Start with the [one-pager.md](one-pager.md "mention"), or dive directly into the [pitch-deck.md](pitch-deck.md "mention") below 👇
