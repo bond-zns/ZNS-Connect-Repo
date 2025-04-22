@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [ZNS Investor Portal](README.md)
 * [📃 One Pager](one-pager.md)
 * [📗 Pitch Deck](pitch-deck.md)
 * [🏫 Equity Deal](equity-deal.md)

@@ -5,17 +5,16 @@ cover: .gitbook/assets/Welcome ZNS Connect Equity.jpg
 coverY: 0
 ---
 
-# Welcome
+# ZNS Investor Portal
 
 ### 🌟 Welcome to the ZNS Connect Investor Portal
 
 We're building the multi-chain identity and naming layer for Web3 — already live across 15+ blockchains, with 533K+ domains registered and over $750K in protocol revenue.
 
-✅ Trusted by **90+ partners,** including **OKX**, **Scroll**, and **Binance Web3 wallet**\
-✅ Embedded in fast-growing ecosystems like **INK**, **Unichain**, and **Soneium**\
-✅ Backed by **real usage**, proven **revenue**, and **token-ready infrastructure**&#x20;
-
-✅ **Recipient of a grant** from the Polygon Community Grants Program
+✅ **Trusted by 90+ partners**, including OKX, Scroll, and Binance Web3 Wallet\
+✅ **Integrated across top ecosystems** like INK, Unichain, and Soneium\
+✅ **Driven by real usage**, $750K+ in revenue, and token-ready infrastructure\
+✅ **Awarded a grant by the Polygon Community Grants Program**
 
 This portal contains everything you need to explore our investment opportunity:
 
