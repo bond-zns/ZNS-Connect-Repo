@@ -59,10 +59,25 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 ***
 
+#### Token Launch Potential
 
+ZNS Connect is positioned for a **$10M–$18M+ token launch**, backed by real usage, protocol revenue, and market-ready infrastructure. With the right strategic partners, this launch could mirror — or outperform — top projects in the space.
+
+**📊 Benchmark Comparables**
+
+| Project                 | Valuation      | Notable Backers / Exchanges      |
+| ----------------------- | -------------- | -------------------------------- |
+| **ENS**                 | $540M          | Coinbase, A16Z, major DAOs       |
+| **Unstoppable Domains** | $430M          | Pantera, Protocol Labs, etc.     |
+| **Space ID**            | $160M          | Binance Launchpad, BNB Ecosystem |
+| ZNS Connect             | **$10M–$18M+** |                                  |
 
 ***
 
-Let me know if you'd like this version uploaded as Markdown or directly formatted into your GitBook page. I can also split it into collapsible sections if your GitBook supports toggles.
+📈 **ZNS Connect** — live, multi-chain, and community-driven — is next in line.
+
+<figure><img src=".gitbook/assets/ZNS_Token_Valuation_Comparables_X_Growth.png" alt=""><figcaption><p>Token launch Valuation Competitors</p></figcaption></figure>
+
+
 
 ***
