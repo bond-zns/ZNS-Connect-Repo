@@ -3,7 +3,7 @@ cover: .gitbook/assets/faq.jpg
 coverY: 0
 ---
 
-# 🦊 FAQ
+# ❓ FAQ
 
 #### Q: What is being offered?
 
@@ -34,7 +34,7 @@ We’ve developed an initial model, but we’re open to **co-structuring tokenom
 
 #### Q: What’s the team structure?
 
-* Small, lean, globally distributed team
+* Small, globally distributed team
 * Based in **France, Germany, Ukraine, Canada, and India**
 * Previously worked with **Rarible, GetGems, NEAR, Polygon**
 
@@ -42,6 +42,5 @@ We’ve developed an initial model, but we’re open to **co-structuring tokenom
 
 #### Q: What kind of investor are you looking for?
 
-* Strategic backers with Web3 or infrastructure experience
-* Value-add funds or angels who can support token growth, BD, or exchange strategy
+* Strategic backers
 * We’re onboarding **1–3 core investors** this round

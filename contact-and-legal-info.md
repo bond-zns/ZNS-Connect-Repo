@@ -1,5 +1,5 @@
 ---
-description: Legal & Entity and Contact Information
+description: Legal, Entity and Contact Information
 cover: .gitbook/assets/contact.jpg
 coverY: 0
 ---
