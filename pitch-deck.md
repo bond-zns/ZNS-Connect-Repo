@@ -6,6 +6,8 @@ coverY: 0
 
 # 📗 Pitch Deck
 
+{% embed url="https://docsend.com/v/4cbkc/zns" %}
+
 {% hint style="success" %}
 This is our core investor presentation.\
 It outlines the opportunity to invest in ZNS Connect — a live, revenue-generating Web3 identity protocol operating across 20+ chains.\
