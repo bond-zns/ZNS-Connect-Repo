@@ -14,7 +14,7 @@ To explore the equity + token opportunity:
 * 📧 **Email**: [info@znsconnect.io](mailto:info@znsconnect.io)
 * 💬 **Telegram**: [@bond\_zns](https://t.me/bond_zns)
 * 🌐 **Website**: [znsconnect.io](https://znsconnect.io/)
-* 🗓️ **Book a call**: [calendly.com/zns-connect](https://calendly.com/zns-connect)
+* 🗓️ **Book a call**: [https://calendly.com/znsconnect](https://calendly.com/znsconnect)
 
 ***
 
