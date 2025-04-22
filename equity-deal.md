@@ -25,7 +25,7 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 ***
 
-<figure><img src=".gitbook/assets/Screenshot 2025-04-21 at 16.20.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-21 at 16.20.06.png" alt=""><figcaption><p>Dune Results </p></figcaption></figure>
 
 #### 🔐 **Token Warranty (Included)**
 
