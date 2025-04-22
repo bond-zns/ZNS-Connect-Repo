@@ -6,7 +6,7 @@ coverY: 0
 
 # 📃 One Pager
 
-<figure><img src=".gitbook/assets/ZNS Connect_ One Pager Equity.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://docsend.com/v/4cbkc/one" %}
 
 {% hint style="success" %}
 A concise, high-level snapshot of ZNS Connect's traction, product, and equity opportunity — built for fast review or intros.
