@@ -6,21 +6,22 @@ coverY: 0
 
 # 🗺️ Roadmap
 
-**📍 End of 2025**
+**📍 Q2 2025**
 
-* **Integrate 25+ blockchains** across L1s, L2s, and new testnets
+* **Integrate 10+ blockchains** across L1s, L2s, and new testnets
 * Expand branded smart card partnerships ([zns.name](https://zns.name/))
 * Additional chain grants and protocol incentives
+* **MetaMask Snaps integration** for enhanced wallet UX - done ✅&#x20;
 
-**📱 Q2 2026**
+**📱 Q3 2026**
 
 * **Launch iOS and Android mobile apps**\
   – Identity dashboard, minting, messaging, referrals
-* **MetaMask Snaps integration** for enhanced wallet UX
+* **New SVG service** for enhanced wallet UX and applications
 * Begin **global printing & shipping** of Web3 smart cards from [zns.name](https://zns.name/)
 * Introduce **Sign-In With Ethereum (SIWE)** support
 
-**🧩 H2 2026**
+**🧩 Q4 2026**
 
 * **In-app messaging** between domain holders
 * **Post tweets directly from your ZNS domain**

@@ -21,7 +21,6 @@ To explore the equity + token opportunity:
 #### 🧾 **Legal & Entity Information**
 
 * 🏛 **Entity**: Incorporated in **Panama**
-* 🛡 **Trademark**: U.S. registration in progress
 * ⚖️ **Structure**: Equity + Token Warranty (SAFE available)
 
 ***

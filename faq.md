@@ -7,7 +7,7 @@ coverY: 0
 
 #### Q: What is being offered?
 
-We’re offering up to **75% equity** in ZNS Connect at a **$5M valuation** (vs. $10M internal market cap). Equity includes a **token warrant** for future $ZNT allocation.
+We’re offering up to **50% equity** in ZNS Connect at a **$5M valuation** (vs. $14-18M internal market cap). Equity includes a **token warrant** for future $ZNT allocation.
 
 ***
 
@@ -19,7 +19,7 @@ We’re offering up to **75% equity** in ZNS Connect at a **$5M valuation** (vs.
 
 #### Q: Are tokenomics fixed?
 
-We’ve developed an initial model, but we’re open to **co-structuring tokenomics and the cap table** with lead investors — targeting a **$10–18M FDV** at TGE.
+We’ve developed an initial model, but we’re open to **co-structuring tokenomics and the cap table** with lead investors — targeting a **$14–18M FDV** at TGE.
 
 ***
 
@@ -28,7 +28,6 @@ We’ve developed an initial model, but we’re open to **co-structuring tokenom
 * **Entity**: Incorporated in **Panama**
 * **Equity**: Offered via **SAFE** or common share structure
 * **Token Warranty**: Included with investor protections
-* **Trademark**: U.S. registration for ZNS Connect in process
 
 ***
 

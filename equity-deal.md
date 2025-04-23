@@ -15,8 +15,8 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 **📊 Deal Summary**
 
 * **Pre-TGE Valuation:** $5M pre-TGE (  60-50% discount from current internal market estimate)
-* **Equity Offered:** 75% (**$3.75M total raise**)
-* **Structure:** 25% blocks
+* **Equity Offered:** 50% (**$2.5M total raise**)
+* **Structure:** 25%-50% blocks
 * **Token Launch Potential:** $10M–$18M+
 * **Benchmark Comparables:**
   * ENS – $540M
