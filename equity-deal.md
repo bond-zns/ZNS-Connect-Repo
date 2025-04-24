@@ -49,13 +49,15 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 ***
 
-#### 🛡️ Investor Benefits
+#### 📦 What You Get as an Investor
 
-* ✅ Token Warranty Rights
-* ✅ Revenue Share + Token Upside
-* ✅ Strategic Role in Core Infrastructure
-* ✅ Full Access to Platform, SDKs, Auctions, Governance
-* ✅ Participation in Ecosystem Grants, Launches, Builder Rewards
+* 🏛 **Equity Ownership** in ZNS Connect
+* 🪙 **Pro-rata Token Allocation** of $ZNT with vesting and warranty protections
+* 🔗 **50% Ownership of** [**Creator Network** ](https://creatorchain.io/)– our live ZNS-powered blockchain
+* 🔧 **Full Access to Platform** – including SDKs, domain auctions, and admin rights
+* 🧩 **Revenue Participation** – from domain mints, SDKs, mobile, and smart card sales
+* 🗳 **Governance Role** – help shape tokenomics, partnerships, product direction
+* 🏆 **Early Investor Advantage** – join before token launch and major CEX integrations
 
 ***
 

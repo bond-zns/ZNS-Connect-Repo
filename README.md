@@ -14,7 +14,7 @@ We're building the multi-chain identity and naming layer for Web3 — already li
 ✅ **Trusted by 90+ partners**, including OKX, Scroll, and Binance Web3 Wallet\
 ✅ **Integrated across top ecosystems** like INK, Unichain, and Soneium\
 ✅ **Driven by real usage**, $750K+ in revenue, and token-ready infrastructure\
-✅ **Awarded a grant by the Polygon**&#x20;
+✅ Recipient of a **grant from the Polygon Community Program**
 
 This portal contains everything you need to explore our investment opportunity:
 
@@ -27,4 +27,4 @@ We’re currently speaking with **1–3 strategic investors** to help scale ZNS 
 
 ✨ Have questions? Want a custom call?
 
-Start with the [pitch-deck.md](pitch-deck.md "mention") below or Book a call !
+Start with the [pitch-deck.md](pitch-deck.md "mention") below or [Book a call ](https://calendly.com/znsconnect)!

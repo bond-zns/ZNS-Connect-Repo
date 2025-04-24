@@ -6,25 +6,37 @@ coverY: 0
 
 # 🗺️ Roadmap
 
-**📍 Q2 2025**
+📍 Q2 2025
 
-* **Integrate 10+ blockchains** across L1s, L2s, and new testnets
-* Expand branded smart card partnerships ([zns.name](https://zns.name/))
-* Additional chain grants and protocol incentives
-* **MetaMask Snaps integration** for enhanced wallet UX - done ✅&#x20;
+* Integrate 10+ new blockchains across L1s, L2s, and testnets
+* Expand branded smart card partnerships via [zns.name](https://zns.name/)
+* Secure additional chain grants and protocol incentive deals
+* ✅ **MetaMask Snaps** integration complete – enhanced wallet UX live
 
-**📱 Q3 2026**
+***
 
-* **Launch iOS and Android mobile apps**\
-  – Identity dashboard, minting, messaging, referrals
-* **New SVG service** for enhanced wallet UX and applications
-* Begin **global printing & shipping** of Web3 smart cards from [zns.name](https://zns.name/)
-* Introduce **Sign-In With Ethereum (SIWE)** support
+#### 📱 Q3 2026
 
-**🧩 Q4 2026**
+* Launch iOS + Android mobile apps\
+  • Identity dashboard, minting, messaging, referrals
+* Launch new **SVG service** for wallet/app visual UX upgrades
+* Begin global printing & shipping of **ZNS smart cards**
+* Add **Sign-In With Ethereum (SIWE)** functionality
 
-* **In-app messaging** between domain holders
-* **Post tweets directly from your ZNS domain**
-* **Integrated DEX features** linked to identity (e.g., “swap with bond.zns”)
-* Begin rollout of **creator monetization tools**
-* #### Explore **AI-assisted identity tools** (name suggestions, risk scoring, etc.)
+***
+
+#### 🧩 Q4 2026
+
+* Launch in-app messaging between domain holders
+* Enable posting to X/Twitter directly from your ZNS domain
+* Integrate DEX functions with identity: _“swap with bond.zns”_
+* Roll out **creator monetization tools** for content and social identity
+* Begin testing **AI-assisted features**: name suggestions, risk scoring, and more
+
+***
+
+#### 🔑 Feedback Highlights:
+
+* ✅ You’re showcasing **multi-product innovation**: wallet, cards, mobile, identity tools
+* ✅ You’re balancing **tech depth + GTM clarity**
+* ✨ Adding investor hooks like “grants,” “creator monetization,” and “AI tools” makes it feel futuristic & fundable
