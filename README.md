@@ -13,7 +13,7 @@ We're building the multi-chain identity and naming layer for Web3 — already li
 
 ✅ **Trusted by 90+ partners**, including OKX, Scroll, and Binance Web3 Wallet\
 ✅ **Integrated across top ecosystems** like INK, Unichain, and Soneium\
-✅ **Driven by real usage**, $750K+ in revenue, and token-ready infrastructure\
+✅ **Driven by real usage**, $760K+ in revenue ( [Data from DUNE](https://dune.com/zns/zns-connect)) , and token-ready infrastructure\
 ✅ Recipient of a **grant from the Polygon Community Program**
 
 This portal contains everything you need to explore our investment opportunity:

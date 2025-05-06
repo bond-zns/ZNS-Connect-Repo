@@ -18,6 +18,7 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 * **Equity Offered:** 50% (**$2.5M total raise**)
 * **Structure:** 25%-50% blocks
 * **Token Launch Potential:** $10M–$18M+
+* **Revenue 2024-2025:** $750K+ [Dune data ](https://dune.com/zns/zns-connect)
 * **Benchmark Comparables:**
   * ENS – $540M
   * Unstoppable Domains – $430M
