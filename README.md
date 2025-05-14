@@ -11,17 +11,33 @@ coverY: 0
 
 We're building the multi-chain identity and naming layer for Web3 — already live across 25+ blockchains, with 533K+ domains registered and over $750K in protocol revenue.
 
-✅ **Trusted by 90+ partners**, including OKX, Scroll, and Binance Web3 Wallet\
+✅ **Trusted by** [**90+ partners**,](https://docs.google.com/spreadsheets/d/1xN-BT6MEfIJSFc0bdYrI62VI-rIoFpO094PFSsS6o0Q/edit?usp=sharing) including OKX, Scroll, and Binance Web3 Wallet\
 ✅ **Integrated across top ecosystems** like INK, Unichain, and Soneium\
 ✅ **Driven by real usage**, $760K+ in revenue ( [Data from DUNE](https://dune.com/zns/zns-connect)) , and token-ready infrastructure\
 ✅ Recipient of a **grant from the Polygon Community Program**
 
-This portal contains everything you need to explore our investment opportunity:
+### 🔗 Brands & Products
+
+* [zns.bio](https://zns.bio/) – Web3 Social Identity App (live)
+* [zns.name](https://zns.name/) – NFC smart card linking
+* Mobile iOS/Android apps – (in development)
+* [Creator Chain](https://creatorchain.io/) – Our native L1 with 10+ dApps
+
+### 💡 Investor Upside
+
+* 🚀 Token Launch Forecast: **$14M–18M** raise
+* 🧠 Full access to SDKs, auctions, governance, and platform
+* 🪪 First-mover advantage in multi-chain naming infrastructure
+* 📈 Protocol revenue from minting, referrals, and integration partners
+
+### 📎 Documents & Links
 
 * A concise [one-pager.md](one-pager.md "mention") for quick insights
 * A full [pitch-deck.md](pitch-deck.md "mention") with traction, roadmap and deal terms
 * Details on our [equity-deal.md](equity-deal.md "mention")
 * [roadmap.md](roadmap.md "mention"), [faq.md](faq.md "mention") and [contact-and-legal-info.md](contact-and-legal-info.md "mention")
+
+### 📬 Let’s Talk
 
 We’re currently speaking with **1–3 strategic investors** to help scale ZNS Connect globally across 2025–2026 — especially as we prepare for token launch, SDK expansion, and CEX integrations.
 
