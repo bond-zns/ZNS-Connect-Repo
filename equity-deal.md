@@ -79,7 +79,7 @@ ZNS Connect is positioned for a **$14M–$18M token launch**, backed by real usa
 
 📈 **ZNS Connect** — live, multi-chain, and community-driven — is next in line.
 
-<figure><img src=".gitbook/assets/ZNS_Token_Valuation_Comparables_X_Growth.png" alt=""><figcaption><p>Token launch Valuation Competitors</p></figcaption></figure>
+<figure><img src=".gitbook/assets/assets_task_01jvyb7s4eextbjxnx7sh3t94n_1747996481_img_1.webp" alt=""><figcaption><p>Token launch Valuation Competitors</p></figcaption></figure>
 
 
 
