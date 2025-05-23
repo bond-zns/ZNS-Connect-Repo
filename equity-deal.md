@@ -14,15 +14,15 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 **📊 Deal Summary**
 
-* **Pre-TGE Valuation:** $5M pre-TGE (  60-50% discount from current internal market estimate)
-* **Equity Offered:** 50% (**$2.5M total raise**)
+* **Pre-TGE Valuation:** $10M pre-TGE&#x20;
+* **Equity Offered:** 20% (**$2M total raise**)
 * **Structure:** 25%-50% blocks
-* **Token Launch Potential:** $10M–$18M+
-* **Revenue 2024-2025:** $750K+ [Dune data ](https://dune.com/zns/zns-connect)
-* **Benchmark Comparables:**
-  * ENS – $540M
-  * Unstoppable Domains – $430M
-  * Space ID – $160M
+* **Token Launch Potential:** $14M–$18M+
+* **Revenue 2024-2025:** $770K+ [Dune data ](https://dune.com/zns/zns-connect)
+* **Benchmark Comparables** [( read the full article)](https://znsconnect.medium.com/web3-domains-in-2025-why-zns-connect-is-the-real-challenger-to-ens-space-id-sns-ba2ae923cd8b) **:**
+  * ENS – $730M
+  * Space ID – $207M
+  * Solana Name Sewrvice – $88M
 
 ***
 
@@ -54,7 +54,7 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 * 🏛 **Equity Ownership** in ZNS Connect
 * 🪙 **Pro-rata Token Allocation** of $ZNT with vesting and warranty protections
-* 🔗 **50% Ownership of** [**Creator Network** ](https://creatorchain.io/)– our live ZNS-powered blockchain
+* 🔗 **Ownership of** [**Creator Network** ](https://creatorchain.io/)– our live ZNS-powered blockchain
 * 🔧 **Full Access to Platform** – including SDKs, domain auctions, and admin rights
 * 🧩 **Revenue Participation** – from domain mints, SDKs, mobile, and smart card sales
 * 🗳 **Governance Role** – help shape tokenomics, partnerships, product direction
@@ -64,16 +64,16 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 #### Token Launch Potential
 
-ZNS Connect is positioned for a **$10M–$18M+ token launch**, backed by real usage, protocol revenue, and market-ready infrastructure. With the right strategic partners, this launch could mirror — or outperform — top projects in the space.
+ZNS Connect is positioned for a **$14M–$18M token launch**, backed by real usage, protocol revenue, and market-ready infrastructure. With the right strategic partners, this launch could mirror — or outperform — top projects in the space.
 
 **📊 Benchmark Comparables**
 
-| Project                 | Valuation      | Notable Backers / Exchanges      |
-| ----------------------- | -------------- | -------------------------------- |
-| **ENS**                 | $540M          | Coinbase, A16Z, major DAOs       |
-| **Unstoppable Domains** | $430M          | Pantera, Protocol Labs, etc.     |
-| **Space ID**            | $160M          | Binance Launchpad, BNB Ecosystem |
-| ZNS Connect             | **$10M–$18M+** |                                  |
+| Project                                                                   | Valuation     | Notable Backers / Exchanges           |
+| ------------------------------------------------------------------------- | ------------- | ------------------------------------- |
+| [**ENS**](https://dropstab.com/coins/ethereum-name-service/fundraising)   | $730M         | Coinbase, A16Z, major DAOs            |
+| [**Space ID**](https://dropstab.com/coins/space-id)                       | $207M         | Polychain Capital, YZI Labs, DAO5     |
+| [**Solana Name Service**](https://dropstab.com/coins/bonfida/fundraising) | $88M          | Spartan Group, Ryze Labs, FBG Capital |
+| ZNS Connect                                                               | **$14M–$18M** | Self Funded                           |
 
 ***
 

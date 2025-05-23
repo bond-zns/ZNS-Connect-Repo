@@ -4,6 +4,7 @@
 * [📃 One Pager](one-pager.md)
 * [📗 Pitch Deck](pitch-deck.md)
 * [🏫 Equity Deal](equity-deal.md)
+* [💹 Market Comparables](market-comparables.md)
 * [🗺️ Roadmap](roadmap.md)
 * [❓ FAQ](faq.md)
 * [📬 Contact & Legal Info](contact-and-legal-info.md)
