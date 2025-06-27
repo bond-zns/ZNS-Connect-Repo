@@ -17,10 +17,8 @@ Experienced web3 application developer, building scalable user-facing systems.
 [**Wasiu Maleek**](https://www.linkedin.com/in/wasiumaleek/)  **– UI/UX Designer || Growth-Focused Designer**\
 Growth-focused designer with expertise in intuitive Web3 interfaces.
 
-[**Rumon Das**](https://www.linkedin.com/in/rumon-das-16b554235/)  - **Community manager | Admin moderator**&#x20;
-
+[**Rumon Das**](https://www.linkedin.com/in/rumon-das-16b554235/)   **– Community manager | Admin moderator** \
 Admin, moderator, and active community growth lead.
 
-[**Arturas Svirskis**](https://www.linkedin.com/in/arturassvirskis/)  -  **Investment Relations Expert**
-
+[**Arturas Svirskis**](https://www.linkedin.com/in/arturassvirskis/)   **–** **Investment Relations Expert**\
 Advising on strategic partnerships and investor outreach.
