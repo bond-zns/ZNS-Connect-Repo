@@ -6,8 +6,6 @@ icon: people-group
 # Core team
 
 [**Artem Baraniuk** ](https://www.linkedin.com/in/ac3f/)**– Founder & CEO**\
-
-
 Ex-Amazon seller (Homsto brand). Building ZNS Connect for the past 3 years. In crypto since 2020.
 
 [**Aayush Gupta**](https://github.com/AayushCodes) **– Full-Stack & Smart Contract Developer** \
