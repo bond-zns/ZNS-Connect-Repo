@@ -1,10 +1,11 @@
 ---
 description: Equity opportunity — built for fast review or intros
+icon: memo-circle-info
 cover: .gitbook/assets/one pager.jpg
 coverY: 0
 ---
 
-# 📃 One Pager
+# One Pager
 
 {% embed url="https://docsend.com/v/4cbkc/one" %}
 ZNS Connect One Pager

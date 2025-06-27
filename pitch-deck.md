@@ -1,10 +1,11 @@
 ---
 description: A live, revenue-generating Web3 identity protocol
+icon: books
 cover: .gitbook/assets/pitch deck.jpg
 coverY: 0
 ---
 
-# 📗 Pitch Deck
+# Pitch Deck
 
 {% embed url="https://docsend.com/v/4cbkc/zns" %}
 ZNS Connect Equity Pitch Deck

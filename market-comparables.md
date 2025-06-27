@@ -1,10 +1,11 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
+icon: money-bill-trend-up
 cover: .gitbook/assets/Snap market.png
 coverY: 0
 ---
 
-# 💹 Market Comparables
+# Market Comparables
 
 ### &#x20;Why ZNS Connect Is the Real Challenger in Web3 Domains
 

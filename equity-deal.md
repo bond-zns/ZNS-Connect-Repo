@@ -1,10 +1,11 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
+icon: badge-percent
 cover: .gitbook/assets/equity.jpg
 coverY: 0
 ---
 
-# 🏫 Equity Deal
+# Equity Deal
 
 ZNS Connect is opening up its first-ever equity round, offering strategic investors a unique opportunity to acquire ownership in a live, revenue-generating #Web3 identity platform — with direct exposure to both equity **and** token upside.
 

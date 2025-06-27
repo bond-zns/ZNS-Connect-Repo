@@ -1,9 +1,10 @@
 ---
+icon: message-question
 cover: .gitbook/assets/faq.jpg
 coverY: 0
 ---
 
-# ❓ FAQ
+# FAQ
 
 ***
 

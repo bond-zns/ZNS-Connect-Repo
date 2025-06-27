@@ -1,10 +1,11 @@
 ---
 description: What’s the roadmap for 2025–2026?
+icon: road
 cover: .gitbook/assets/roadmap.jpg
 coverY: 0
 ---
 
-# 🗺️ Roadmap
+# Roadmap
 
 📍 Q2 2025
 
