@@ -25,16 +25,14 @@ We're building the multi-chain identity and naming layer for Web3 — already li
 
 ### 💡 Investor Upside
 
-* 🚀 Token Launch Forecast: **$14M–18M** raise
-* 🧠 Full access to SDKs, auctions, governance, and platform
-* 🪪 First-mover advantage in multi-chain naming infrastructure
-* 📈 Protocol revenue from minting, referrals, and integration partners
+* Token Launch Forecast: **$14M–18M** raise
+* First-mover advantage in **multi-chain naming infrastructure**
+* **Protocol revenue from minting**, referrals, and integration partners
 
 ### 📎 Documents & Links
 
-* A concise [one-pager.md](one-pager.md "mention") for quick insights
 * A full [pitch-deck.md](pitch-deck.md "mention") with traction, roadmap and deal terms
-* Details on our [equity-deal.md](equity-deal.md "mention")
+* Details on our [equity-deal.md](equity-deal.md "mention") and [market-comparables.md](market-comparables.md "mention")
 * [roadmap.md](roadmap.md "mention"), [faq.md](faq.md "mention") and [contact-and-legal-info.md](contact-and-legal-info.md "mention")
 
 ### 📬 Let’s Talk
