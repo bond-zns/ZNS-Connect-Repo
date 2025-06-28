@@ -1,5 +1,6 @@
 ---
 description: Equity opportunity — built for fast review or intros
+hidden: true
 icon: memo-circle-info
 cover: .gitbook/assets/one pager.jpg
 coverY: 0
