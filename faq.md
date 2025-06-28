@@ -9,7 +9,7 @@ coverY: 0
 ***
 
 **Q: What is being offered?**\
-We’re offering up to **50% equity in ZNS Connect at a $5M valuation** (vs. $14–18M internal market cap). This equity includes a **token warrant** for future $ZNT allocation.
+We’re offering up to **20% equity in ZNS Connect at a $10M valuation** (vs. $14–18M internal market cap). This equity includes a **token warrant** for future $ZNT allocation.
 
 ***
 
@@ -33,17 +33,11 @@ We’ve developed an initial model, but we’re open to **co-structuring tokenom
 
 **Q: What exactly do investors get?**
 
-* ✅ Up to **50% equity** in ZNS Connect
+* ✅ Up to **20% equity** in ZNS Connect
 * ✅ **Pro-rata $ZNT token allocation** (vested + protected)
 * ✅ **50% ownership of** [**Creator Network**](https://creatorchain.io/) (ZNS-powered blockchain with 14K+ wallets)
 * ✅ Governance, revenue share, and access to platform infrastructure
 * ✅ Co-ownership of the brand, SDKs, auctions, mobile apps, and smart card sales
-
-***
-
-**Q: What’s the team structure?**\
-Lean, globally distributed team across France, Germany, Ukraine, Canada, and India.\
-Team previously worked with: **Rarible, GetGems, NEAR, Polygon**
 
 ***
 

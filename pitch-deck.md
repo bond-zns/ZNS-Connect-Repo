@@ -7,12 +7,16 @@ coverY: 0
 
 # Pitch Deck
 
+🔗 **View Pitch Deck on DocSend**&#x20;
+
 {% embed url="https://docsend.com/v/4cbkc/zns" %}
 ZNS Connect Equity Pitch Deck
 {% endembed %}
 
-[**This is our core investor presentation**](#user-content-fn-1)[^1]\
-It outlines the opportunity to invest in ZNS Connect — a live, revenue-generating Web3 identity protocol operating across 25+ chains.\
-The deck includes product overview, traction, equity structure, roadmap, and token strategy.
+**Highlights:**
 
-[^1]: 
+* 533K+ domains minted across multi-chains
+* $750K+ total revenue (**bootstrapped**)
+* Equity + Token raise now open
+
+> This deck outlines ZNS Connect’s product, traction, equity structure, roadmap, and token strategy.

@@ -27,7 +27,7 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 ***
 
-<figure><img src=".gitbook/assets/Screenshot 2025-04-21 at 16.20.06.png" alt=""><figcaption><p>Dune Results </p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-06-28 at 08.50.40.png" alt=""><figcaption><p>Dune Results </p></figcaption></figure>
 
 #### 🔐 **Token Warranty (Included)**
 
@@ -44,7 +44,7 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 #### ⚖️ Legal Structure
 
-* **Incorporation:** Panama
+* **Incorporation:** AltBridge Labs S.A., Panama
 * **Equity Vehicle:** Common Shares or SAFE
 * **Token Treatment:** Warrant-backed allocation with vesting
 * **Documents:** SAFE draft available upon request
@@ -59,7 +59,6 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 * 🔧 **Full Access to Platform** – including SDKs, domain auctions, and admin rights
 * 🧩 **Revenue Participation** – from domain mints, SDKs, mobile, and smart card sales
 * 🗳 **Governance Role** – help shape tokenomics, partnerships, product direction
-* 🏆 **Early Investor Advantage** – join before token launch and major CEX integrations
 
 ***
 

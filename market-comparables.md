@@ -1,8 +1,6 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
 icon: money-bill-trend-up
-cover: .gitbook/assets/Snap market.png
-coverY: 0
 ---
 
 # Market Comparables
