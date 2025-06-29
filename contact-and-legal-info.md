@@ -1,10 +1,11 @@
 ---
 description: Legal, Entity and Contact Information
+icon: address-book
 cover: .gitbook/assets/contact.jpg
 coverY: 0
 ---
 
-# 📬 Contact & Legal Info
+# Contact & Legal Info
 
 ### 📬 Contact & Deal Room
 

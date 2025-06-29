@@ -8,6 +8,6 @@
 * [Roadmap](roadmap.md)
 * [FAQ](faq.md)
 * [Core team](core-team.md)
-* [📬 Contact & Legal Info](contact-and-legal-info.md)
+* [Contact & Legal Info](contact-and-legal-info.md)
 * [Book a call](https://calendly.com/znsconnect)
 * [DM us on Telegram](https://t.me/bond_zns)
