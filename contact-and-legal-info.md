@@ -27,7 +27,8 @@ To explore the equity + token opportunity:
 📂 **Public Registry:** Folio 155767377\
 ⚖️ **Corporate Structure:** Private S.A. (Sociedad Anónima) with 100% of shares held by a single beneficial owner (Ukraine)\
 📝 **Governing Body:** 3 registered Directors; Board resolutions & Power of Attorney available on request\
-🔑 **Trademark:** ZNS Connect, trademark application filed (Classes 9 & 42, USPTO)\
+🔑 **Trademark:** ZNS Connect, USPTO Serial #99269529 (Classes 9 & 42) – July 7, 2025\
+➔ [Link to TSDR Status](https://tsdr.uspto.gov/) (search 99269529)\
 📚 **Intellectual Property:** All software, codebase, brand assets and domain names are officially owned by AltBridge Labs S.A.\
 ✅ **IP Protection:** IP transfer agreements and work-for-hire contracts signed with all core contributors (devs, designers, community managers)\
 💼 **Compliance:** The Company holds D-U-N-S Number; all business operations follow applicable Panama and international IP laws
