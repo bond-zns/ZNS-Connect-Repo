@@ -9,11 +9,11 @@ coverY: 0
 
 ### 🌟 Welcome to the ZNS Connect Investor Portal
 
-We're building the multi-chain identity and naming layer for Web3 — already live across 25+ blockchains, with 533K+ domains registered and over $750K in protocol revenue.
+We're building the multi-chain identity and naming layer for Web3 — already live across 25+ blockchains, with 533K+ domains registered and over $800K in protocol revenue.
 
-✅ **Trusted by** [**90+ partners**,](https://docs.google.com/spreadsheets/d/1xN-BT6MEfIJSFc0bdYrI62VI-rIoFpO094PFSsS6o0Q/edit?usp=sharing) including OKX, Scroll, and Binance Web3 Wallet\
+✅ **Trusted by** [**90+ partners**,](https://docs.google.com/spreadsheets/d/1xN-BT6MEfIJSFc0bdYrI62VI-rIoFpO094PFSsS6o0Q/edit?usp=sharing) including OKX, Scroll, and Binance Web3 Wallet, KiloEx\
 ✅ **Integrated across top ecosystems** like INK, Unichain, and Soneium\
-✅ **Driven by real usage**, $760K+ in revenue ( [Data from DUNE](https://dune.com/zns/zns-connect)) , and token-ready infrastructure\
+✅ **Driven by real usage**, $800K+ in revenue ( [Data from DUNE](https://dune.com/zns/zns-connect)) , and token-ready infrastructure\
 ✅ Recipient of a **grant from the Polygon Community Program**
 
 ### 🔗 Brands & Products
@@ -25,7 +25,7 @@ We're building the multi-chain identity and naming layer for Web3 — already li
 
 ### 💡 Investor Upside
 
-* Token Launch Forecast: **$14M–18M** raise
+* Token Launch Forecast: **$10M–14M** raise
 * First-mover advantage in **multi-chain naming infrastructure**
 * **Protocol revenue from minting**, referrals, and integration partners
 

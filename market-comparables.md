@@ -13,7 +13,7 @@ As Web3 identity becomes a pillar of user experience, domain protocols like ENS,
 
 ### 🔍 Top Protocol Metrics (May 2023–May 2025)
 
-* **ZNS Connect**: $762K revenue, <$100K in total burn
+* **ZNS Connect**: $800K revenue, <$100K in total burn
 * **Space ID**: $1.4M revenue and $207M market cap
 * **ENS**: $12M revenue and $730M market cap&#x20;
 * **Solana Name Service (SNS)**: $2.87M revenue and $88M market cap
@@ -27,9 +27,9 @@ _Note: Revenue for Space ID and ZNS is estimated based on equal average mint pri
 ### 🌟 5 Key Benefits of ZNS Connect
 
 1. **Omnichain Native**: Built for 25+ EVM chains from the ground up.
-2. **Monetized Identity**: $49K+ paid in referral rewards already.
+2. **Monetized Identity**: $51K+ paid in referral rewards already.
 3. **Social + Utility**: Domain + social posts, likes, and smart profile pages.
-4. **Bootstrapped Efficiency**: $760K revenue, <$100K in total burn.
+4. **Bootstrapped Efficiency**: $800K revenue, <$100K in total burn.
 5. **Early Entry Point**: Token launch at \~$10M FDV offers massive upside.
 
 <figure><img src=".gitbook/assets/1_Z7tDHAlXYZaJhKE9KgJEug.webp" alt=""><figcaption><p>Market Comparables and ZNS Connect</p></figcaption></figure>

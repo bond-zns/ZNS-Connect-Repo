@@ -16,7 +16,7 @@ ZNS Connect Equity Pitch Deck
 **Highlights:**
 
 * 533K+ domains minted across multi-chains
-* $750K+ total revenue (**bootstrapped**)
-* Equity + Token raise now open
+* $800K+ total revenue (**bootstrapped**)
+* Equity + Token Raise now open
 
 > This deck outlines ZNS Connect’s product, traction, equity structure, roadmap, and token strategy.

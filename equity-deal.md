@@ -17,9 +17,8 @@ ZNS Connect is opening up its first-ever equity round, offering strategic invest
 
 * **Pre-TGE Valuation:** $10M pre-TGE&#x20;
 * **Equity Offered:** 20% (**$2M total raise**)
-* **Structure:** 25%-50% blocks
-* **Token Launch Potential:** $14M–$18M+
-* **Revenue 2024-2025:** $770K+ [Dune data ](https://dune.com/zns/zns-connect)
+* **Token Launch Potential:** $10M–$14M+
+* **Revenue 2024-2025:** $800K+ [Dune data ](https://dune.com/zns/zns-connect)
 * **Benchmark Comparables** [( read the full article)](https://znsconnect.medium.com/web3-domains-in-2025-why-zns-connect-is-the-real-challenger-to-ens-space-id-sns-ba2ae923cd8b) **:**
   * ENS – $730M
   * Space ID – $207M
@@ -64,7 +63,7 @@ _Note: We are open to working with lead investors to refine tokenomics and final
 
 #### Token Launch Potential
 
-ZNS Connect is positioned for a **$14M–$18M token launch**, backed by real usage, protocol revenue, and market-ready infrastructure. With the right strategic partners, this launch could mirror — or outperform — top projects in the space.
+ZNS Connect is positioned for a **$10M–$14M token launch**, backed by real usage, protocol revenue, and market-ready infrastructure. With the right strategic partners, this launch could mirror — or outperform — top projects in the space.
 
 **📊 Benchmark Comparables**
 
@@ -73,7 +72,7 @@ ZNS Connect is positioned for a **$14M–$18M token launch**, backed by real usa
 | [**ENS**](https://dropstab.com/coins/ethereum-name-service/fundraising)   | $730M         | Coinbase, A16Z, major DAOs            |
 | [**Space ID**](https://dropstab.com/coins/space-id)                       | $207M         | Polychain Capital, YZI Labs, DAO5     |
 | [**Solana Name Service**](https://dropstab.com/coins/bonfida/fundraising) | $88M          | Spartan Group, Ryze Labs, FBG Capital |
-| ZNS Connect                                                               | **$14M–$18M** | Self Funded                           |
+| ZNS Connect                                                               | **$10M–$14M** | Self Funded                           |
 
 ***
 
