@@ -1,6 +1,7 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
 icon: money-bill-trend-up
+cover: .gitbook/assets/Market.png
 coverY: 0
 ---
 

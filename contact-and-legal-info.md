@@ -1,7 +1,7 @@
 ---
 description: Legal, Entity and Contact Information
 icon: address-book
-cover: .gitbook/assets/contact.jpg
+cover: .gitbook/assets/Contact.png
 coverY: 0
 ---
 
