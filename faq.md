@@ -1,6 +1,6 @@
 ---
 icon: message-question
-cover: .gitbook/assets/faq.jpg
+cover: .gitbook/assets/FAQ.png
 coverY: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: 💼 Equity Deal Overview of ZNS Connect
 icon: badge-percent
-cover: .gitbook/assets/equity.jpg
+cover: .gitbook/assets/Equity Deal.png
 coverY: 0
 ---
 

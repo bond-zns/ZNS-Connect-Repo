@@ -1,7 +1,7 @@
 ---
 description: What’s the roadmap for 2025–2026?
 icon: road
-cover: .gitbook/assets/roadmap.jpg
+cover: .gitbook/assets/Road.png
 coverY: 0
 ---
 

@@ -1,6 +1,8 @@
 ---
 description: 🧑‍🚀 Core Team of ZNS Connect
 icon: people-group
+cover: .gitbook/assets/Acount deletion.png
+coverY: 0
 ---
 
 # Core team
