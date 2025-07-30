@@ -1,7 +1,7 @@
 ---
 description: A live, revenue-generating Web3 identity protocol
 icon: books
-cover: .gitbook/assets/pitch deck.jpg
+cover: .gitbook/assets/Pitch Deck.png
 coverY: 0
 ---
 
