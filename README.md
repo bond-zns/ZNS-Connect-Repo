@@ -1,7 +1,7 @@
 ---
 description: Thank you for your interest in ZNS Connect.
 icon: clipboard-list
-cover: .gitbook/assets/Welcome ZNS Connect Equity.jpg
+cover: .gitbook/assets/X Header (1500 x 500).png
 coverY: 0
 ---
 
